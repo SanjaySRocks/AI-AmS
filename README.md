@@ -2,4 +2,4 @@
 A Discord bot which works on AI created in python
 
 
-```pip install prsaw```
+```pip install -r requirements.txt```
